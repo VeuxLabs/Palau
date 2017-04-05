@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0730"
+   LastUpgradeVersion = "0800"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -16,7 +16,7 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "286A51331CCFBC5900F02082"
                BuildableName = "Palau.framework"
-               BlueprintName = "PalauTV"
+               BlueprintName = "Palau tvOS"
                ReferencedContainer = "container:Palau.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -34,8 +34,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "286A513C1CCFBC5900F02082"
-               BuildableName = "PalauTVTests.xctest"
-               BlueprintName = "PalauTVTests"
+               BuildableName = "Palau tvOS Tests.xctest"
+               BlueprintName = "Palau tvOS Tests"
                ReferencedContainer = "container:Palau.xcodeproj">
             </BuildableReference>
          </TestableReference>
@@ -45,7 +45,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "286A51331CCFBC5900F02082"
             BuildableName = "Palau.framework"
-            BlueprintName = "PalauTV"
+            BlueprintName = "Palau tvOS"
             ReferencedContainer = "container:Palau.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -67,7 +67,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "286A51331CCFBC5900F02082"
             BuildableName = "Palau.framework"
-            BlueprintName = "PalauTV"
+            BlueprintName = "Palau tvOS"
             ReferencedContainer = "container:Palau.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -85,7 +85,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "286A51331CCFBC5900F02082"
             BuildableName = "Palau.framework"
-            BlueprintName = "PalauTV"
+            BlueprintName = "Palau tvOS"
             ReferencedContainer = "container:Palau.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
